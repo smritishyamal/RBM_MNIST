@@ -1,0 +1,2 @@
+# RBM_MNIST
+RBM for MNIST data
